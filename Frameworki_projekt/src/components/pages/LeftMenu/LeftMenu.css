@@ -1,0 +1,78 @@
+.LeftMenu {
+    background-color: white;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    width: 300px;
+    height: 300px;
+    margin: 50px 0 0 50px;  
+    border-radius: 3%; 
+}
+
+.BottomList {
+    padding-top: 40px;
+    padding-left: 20px;
+    text-decoration: none;
+}
+.UserPhoto img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+.UserName {
+    color: rgb(72, 82, 235);
+    padding-left: 70px;
+    font-weight: 700;
+    font-size: 20px;
+}
+.UserName p {
+    color:  rgb(180, 180, 180);
+    padding-left: 10px;
+    font-weight: 500;
+    font-size: 15px;
+}
+.MenuIcons {
+    padding-bottom: 5px;
+    color: black;
+    text-decoration: none;
+}
+.Inside {
+    padding-top: 15px;
+    color: black;
+    text-decoration: none;
+}
+.InsideIcons {
+    margin-left: 20px;
+    padding-top: 10px;
+    display:flex
+}
+.InsideIcons img {
+    margin-right: 10px;
+}
+.UserIcons {
+    display: inline;
+    margin-left: 80px;
+    padding-left: 7px;
+    padding-right: 2px;
+    border: 1px solid black;
+    border-radius: 25%;
+}
+.UserIcons2 {
+    display: inline;
+    margin-left: 50px;
+    padding-left: 7px;
+    padding-right: 2px;
+    border: 1px solid black;
+    border-radius: 25%;
+}
+.ListIcons {
+    padding-top: 10px;
+    margin-bottom: 20px;
+    display: flex;
+    color: black;
+    text-decoration: none;
+}
+.ListIcons img {
+    margin-right: 30px;
+}
+

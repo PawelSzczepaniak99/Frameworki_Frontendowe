@@ -1,0 +1,16 @@
+.CommonButton{
+    border-color: blue;
+    width: 30px;
+    height: 10px;
+}
+.active{
+    background-color: aquamarine;
+    height: 100px;
+    width: 100px;
+}
+
+.non-active{
+    background-color: rgb(221, 68, 21);
+    height: 50px;
+    width: 50px;
+}

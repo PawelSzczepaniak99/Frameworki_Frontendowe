@@ -1,0 +1,43 @@
+.Resume {
+
+    width: 1350px;
+    height: 1300px;
+    margin-top: 20px;
+    margin: 0px 0 300px 400px;
+    position: relative;
+    
+       
+}
+.Res1 {
+    background-color: white;
+    width: 1285px;
+    height: 130px;
+    border-radius: 1%;
+    margin-bottom: 20px;  
+    margin-left: 60px;
+    display: block;
+}
+
+.ResTitle {
+    color: blue;
+}
+.SearchBar__Resume {
+    display: inline-block;
+    position: absolute;
+    margin-left: 900px;
+    height: 25px;
+    width: 200px;
+}
+.Rescontent2{
+display: flex;
+}
+.Rescontent2 img {
+width: 20px;
+height: 20px;
+padding-top: 15px;
+padding-right: 10px;
+padding-left: 10px;
+}
+.Rescontent2 p{
+padding-right: 10px;
+}
